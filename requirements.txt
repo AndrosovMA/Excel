@@ -1,0 +1,20 @@
+Webpack (import/export) - сборщик модулей
+    Babel
+    SCSS
+    Eslint
+
+    2 Modes:
+        -Dev - Dev Server, Eslint, Not Minified JS & CSS
+        -Prod - Minified Cod
+
+Git
+    Production
+        1.0.0
+    Development
+        1.0.2
+
+
+                 number x y z:
+                 x - кардинальное изменение
+                 z - добавление функционала
+                 y - небольшие изменения, положение кнопки, цвет
