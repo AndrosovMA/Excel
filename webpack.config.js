@@ -1,6 +1,6 @@
 const path = require('path'); // встроенный модуль
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const CopyPlugin = require('copy-webpack-plugin'); // for favicon
+const CopyPlugin = require('copy-webpack-plugin'); // for add favicon
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const ESLintPlugin = require('eslint-webpack-plugin');
 
